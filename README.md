@@ -1,0 +1,2 @@
+# nanoinstall
+Tiny installer system
