@@ -1,0 +1,9 @@
+<xml>
+    <image x=100 y=100>
+        <file>C:\proj\xz\ui\action_log.gif</file>
+    </image>
+    
+    <button x=132 y=0 w=100 h=30 text="Btn" />
+    
+    <text x=150 y=150 w=200 h=200 text="Blah blah" />
+</xml>
